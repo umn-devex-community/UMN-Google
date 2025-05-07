@@ -28,7 +28,7 @@
 RootModule = 'UMN-Google.psm1'
 
 # Version number of this module.
-ModuleVersion = '2.0.3'
+ModuleVersion = '2.0.4'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -117,7 +117,7 @@ PrivateData = @{
         # LicenseUri = ''
 
         # A URL to the main website for this project.
-         ProjectUri = 'https://github.com/umn-microsoft-automation/UMN-Google'
+         ProjectUri = 'https://github.com/umn-devex-community/UMN-Google'
 
         # A URL to an icon representing this module.
         # IconUri = ''
